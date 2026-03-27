@@ -71,5 +71,6 @@ public class Main {
         }
         reversOrder(n -1, scanner); //O(n) //after recursion, call prints current number its in
         System.out.print(" " + num);//O(1)
+
     }
 }
